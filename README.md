@@ -419,7 +419,7 @@ ysonet generates deserialization payloads for a variety of .NET formatters.
 		                               minifying and FormatterAssemblyStyle=Simple. 
 		                               Default: true
 		
-	(*) SharePoint (Generates payloads for the following SharePoint CVEs: CVE-2020-1147, CVE-2019-0604, CVE-2018-8421)
+	(*) SharePoint (Generates payloads for the following SharePoint CVEs: CVE-2020-1147, CVE-2019-0604, CVE-2018-8421, CVE-2025-49704)
 		Options:
 		      --cve=VALUE            the CVE reference: CVE-2020-1147 (result is safe 
 		                               for a POST request), CVE-2019-0604, CVE-2018-8421
